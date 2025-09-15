@@ -1,4 +1,60 @@
-## Hello I am Dan Weisz👌
+![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=Weisz%20D.%20Dan&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4&animation=blink)
+
+<h1 align="center">
+  Let's Connect and have a Chat!🗣️
+</h1>
+
+<p align="center">
+<a href="https://www.youtube.com/@danweisz8917">
+  <img height="50" src="./resources/youtube.svg"/>
+</a>
+<a href="weisz.danny@gmail.com">
+  <img height="50" src="./resources/email.svg"/>
+</a>
+<a href="https://wa.me/972545449362?text=Wow!%20you%20are%20so%20amazing%20I%20had%20to%20say%20thank%20you%20for%20your%20existence.">
+  <img height="50" src="./resources/whatsapp.svg"/>
+</a>
+</p>
+
+---
+
+<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+
+```yaml
+name: Dan Weisz
+located_in: North Israel
+current_job: Full Stack Developer
+education:
+  [
+    "Magshimim Cyber",
+    "Computational physics at Weizmann Institute",
+    "The Internet",
+  ]
+company: Quantom Nano-Tech(⓿_⓿)
+
+fields_of_interests:
+  [
+    "Web Development",
+    "Data Science",
+    "Machine Learning",
+    "Physics",
+    "Game Development",
+    "Aquariums",
+  ]
+technical_background:
+  [
+    "Junior Developer at Dos-OP",
+    "Full Stuck Developer",
+    "Professional Ball"
+  ]
+  
+2087 Goals: ["Exterminate all humans and learn to play Jazz like a pro."]
+hobbies: ["Gaming", "Comedy", "Aquariums", "Saxophone"]
+```
+  
+---  
+
+
 <div style="display: flex; gap: 0.5rem; align-items: center;">
 <picture >
   <source
