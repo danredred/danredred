@@ -8,7 +8,7 @@
 <a href="https://www.youtube.com/@danweisz8917">
   <img height="50" src="./resources/youtube.svg"/>
 </a>
-<a href="weisz.danny@gmail.com">
+<a href="mailto:weisz.danny@gmail.com?subject=OMG!%20I%20love%20U%20so%20so%20much&Body=You%20are%20my%20God%20and%20I%20will%20do%20anything%20for%you🙏🙏🙏">
   <img height="50" src="./resources/email.svg"/>
 </a>
 <a href="https://wa.me/972545449362?text=Wow!%20you%20are%20so%20amazing%20I%20had%20to%20say%20thank%20you%20for%20your%20existence.">
