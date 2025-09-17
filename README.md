@@ -46,7 +46,8 @@ technical_background:
   [
     "Junior Developer at Dos-OP",
     "Full Stuck Developer",
-    "Professional Ball"
+    "Professional Ball",
+    "Elden Lord"
   ]
   
 2087 Goals: ["Exterminate all humans and learn to play Jazz like a pro."]
